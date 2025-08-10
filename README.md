@@ -1,1 +1,1 @@
-here https://github.com/Clats97/ClatScope.git
+here https://github.com/Clats97/ClatScope.gitr
